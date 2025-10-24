@@ -1,4 +1,4 @@
-## 是 haiqing ！ 👋
+## 若是心怀旧梦，就不要无疾而终
 
 
 - while (!(succeed = try()));
